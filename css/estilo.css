@@ -1,0 +1,202 @@
+body {
+    margin: 0;
+    font-family: Tahoma;
+}
+  /*  ===== Estilos globais ==== */
+.sobre {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: #afddfb;
+    
+}
+
+.sobre img {
+    width: 150px;
+}
+
+.sobre p {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.sobre a {
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+
+}
+ 
+span {
+    font-weight: bold;
+}
+
+.secao-servicos {
+    font-weight: bold;
+    color: #fff81b;
+}
+
+.secao-contato {
+    font-weight: bold;
+    color: #fff81b;
+}
+
+
+
+div {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.serviços {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.corretores {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.contato {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+p {
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+
+}
+
+.terceira-secao h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.terceira-secao h2 {
+    color: #1c81c0;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+.terceira-secao img {
+    width: 450px;
+}
+
+.texto-azul {
+    color: #1d80c1;
+    font-weight: bold;
+
+}
+
+.serviços {
+    background-color: #1d80c1;
+}
+
+.serviços h3 {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.serviços p {
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.serviços li {
+    margin: 5px auto;
+    width: 135px;
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+.corretores h3 {
+    color: #1c81c0;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+.corretores img {
+    width: 450px;
+}
+
+.corretores p {
+    color: black;
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.corretores {
+    background-color: #ffffff;
+}
+
+.texto-azul-quinta-secao {
+    color: #1d80c1;
+    font-weight: bold;
+}
+
+/* ===  6ª seção === */
+
+.sexta-secao-paragrafo {
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+
+.sexta-secao-lista {
+    width: 210px;
+    list-style: none;
+    margin: 40px auto;
+
+    
+}
+
+.sexta-secao-item-lista {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.sexta-secao-link {
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+
+.texto-amarelo {
+    color: #fff81b;
+}
+
+.sexta-secao {
+    background-color: #1d80c1;
+}
+
+.sexta-secao h3 {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
